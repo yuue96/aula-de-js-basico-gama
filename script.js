@@ -1,6 +1,6 @@
 console.log("Hello World!")
 
-// 2. Variáveis var, let e const
+// Variáveis var, let e const
 // var - pode ocorrer hoisting
 // let - recomendado usá-lo
 // const - não podem ser atualizadas nem reatribuídas
